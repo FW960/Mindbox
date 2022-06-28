@@ -1,0 +1,8 @@
+Figures/obj
+Figures/.vs
+Figures/bin
+Figures/Figures.sln
+Figures/Figures.csproj
+FigureTest/bin
+FigureTest/obj
+FigureTest/FiguresTest.csproj
